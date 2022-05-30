@@ -1,0 +1,4 @@
+admin/admin99
+ST00001/john
+ST00002/mary
+ST00003/siti
